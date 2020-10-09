@@ -1,2 +1,2 @@
 # hud
-this is my first try to make a hud
+this hud is a test so dont expect it to be perfect
